@@ -1,133 +1,133 @@
 {
-    "name": "Fernando Araujo",
-    "job": "Front-end developer",
-    "github": "FernandoGeancarlo",
+	"name": "Fernando Araujo",
+	"job": "Front-end developer",
+	"github": "FernandoGeancarlo",
     "playlists": {
-        "jogos": [
-            {
-                "title": "É ASSIM QUE VENCE UMAS DAS PIORES MATCHUPS CONTRA YONE!",
-                "url": "https://www.youtube.com/watch?v=0_l4htJz0HE",
-                "thumb": "https://img.youtube.com/vi/0_l4htJz0HE/hqdefault.jpg"
-            },
-            {
-                "title": "CUIDADO COM THE DAY BEFORE ",
-                "url": "https://www.youtube.com/watch?v=tslX7NHMllo",
-                "thumb": "https://img.youtube.com/vi/tslX7NHMllo/hqdefault.jpg"
-            },
-            {
-                "title": "O TRISTE FIM do GRANDE MISTERIO do GTA V...",
-                "url": "https://www.youtube.com/watch?v=963GoUPyRWs",
-                "thumb": "https://img.youtube.com/vi/963GoUPyRWs/hqdefault.jpg"
-            },
-            {
-                "title": "Gamers Are Awesome - Episode 139",
-                "url": "https://www.youtube.com/watch?v=MiOWzhk7m60",
-                "thumb": "https://img.youtube.com/vi/MiOWzhk7m60/hqdefault.jpg"
-            },
-            {
-                "title": "DAYZ NÃO É COMO ANTIGAMENTE - DayZ",
-                "url": "https://www.youtube.com/watch?v=aageOM7Y-YM",
-                "thumb": "https://img.youtube.com/vi/aageOM7Y-YM/hqdefault.jpg"
-            },
-            {
-                "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-                "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-                "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
-            },
-            {
-                "title": "We Were Here Together - Os Enigmas deste Mundo",
-                "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-                "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
-            },
-            {
-                "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-                "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
-            }
-        ],
-        "front-end": [
-            {
-                "title": "Encontramos a Melhor API de TODAS para trabalhar com PIX!",
-                "url": "https://www.youtube.com/watch?v=BRzi0rDhhCc",
-                "thumb": "https://img.youtube.com/vi/BRzi0rDhhCc/hqdefault.jpg"
-            },
-            {
-                "title": "React Project Tutorial: Build a Responsive Portfolio Website w/ Advanced Animations (2022)",
-                "url": "https://www.youtube.com/watch?v=hYv6BM2fWd8&t=764s",
-                "thumb": "https://img.youtube.com/vi/27JtRAI3QO8/hqdefault.jpg"
-            },
-            {
-                "title": "Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind",
-                "url": "https://www.youtube.com/watch?v=_oO4Qi5aVZs",
-                "thumb": "https://img.youtube.com/vi/_oO4Qi5aVZs/hqdefault.jpg"
-            },
-            {
-                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
-                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
-                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
-            },
-            {
-                "title": "Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications",
-                "url": "https://www.youtube.com/watch?v=XxXyfkrP298",
-                "thumb": "https://img.youtube.com/vi/XxXyfkrP298/hqdefault.jpg"
-            },
-            {
-                "title": "Como Foi Programado um App Que Faz Mágica",
-                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
-            },
-            {
-                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
-            },
-            {
-                "title": "5 Erros Históricos do CSS",
-                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
-            },
-            {
-                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
-            }
-        ],
-        "back-end": [
-            {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
-            },
-            {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
-            },
-            {
-                "title": "O que é o Java? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
-            },
-            {
-                "title": "O que é Machine Learning? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
-            },
-            {
-                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
-            },
-            {
-                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
-            },
-            {
-                "title": "O que é o C#? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
-            }
-        ]
-    }
+		"jogos": [
+			{
+				"title": "É ASSIM QUE VENCE UMAS DAS PIORES MATCHUPS CONTRA YONE!",
+				"url": "https://www.youtube.com/watch?v=0_l4htJz0HE",
+				"thumb": "https://img.youtube.com/vi/0_l4htJz0HE/hqdefault.jpg"
+			},
+			{
+				"title": "CUIDADO COM THE DAY BEFORE ",
+				"url": "https://www.youtube.com/watch?v=tslX7NHMllo",
+				"thumb": "https://img.youtube.com/vi/tslX7NHMllo/hqdefault.jpg"
+			},
+			{
+				"title": "O TRISTE FIM do GRANDE MISTERIO do GTA V...",
+				"url": "https://www.youtube.com/watch?v=963GoUPyRWs",
+				"thumb": "https://img.youtube.com/vi/963GoUPyRWs/hqdefault.jpg"
+			},
+			{
+				"title": "Gamers Are Awesome - Episode 139",
+				"url": "https://www.youtube.com/watch?v=MiOWzhk7m60",
+				"thumb": "https://img.youtube.com/vi/MiOWzhk7m60/hqdefault.jpg"
+			},
+			{
+				"title": "DAYZ NÃO É COMO ANTIGAMENTE - DayZ",
+				"url": "https://www.youtube.com/watch?v=aageOM7Y-YM",
+				"thumb": "https://img.youtube.com/vi/aageOM7Y-YM/hqdefault.jpg"
+			},
+			{
+				"title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
+				"url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
+				"thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+			},
+			{
+				"title": "We Were Here Together - Os Enigmas deste Mundo",
+				"url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
+				"thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+			},
+			{
+				"title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
+				"url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
+				"thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+			}
+		],
+		"front-end": [
+			{
+				"title": "Encontramos a Melhor API de TODAS para trabalhar com PIX!",
+				"url": "https://www.youtube.com/watch?v=BRzi0rDhhCc",
+				"thumb": "https://img.youtube.com/vi/BRzi0rDhhCc/hqdefault.jpg"
+			},
+			{
+				"title": "React Project Tutorial: Build a Responsive Portfolio Website w/ Advanced Animations (2022)",
+				"url": "https://www.youtube.com/watch?v=hYv6BM2fWd8&t=764s",
+				"thumb": "https://img.youtube.com/vi/27JtRAI3QO8/hqdefault.jpg"
+			},
+			{
+				"title": "Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind",
+				"url": "https://www.youtube.com/watch?v=_oO4Qi5aVZs",
+				"thumb": "https://img.youtube.com/vi/_oO4Qi5aVZs/hqdefault.jpg"
+			},
+			{
+				"title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+				"url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+				"thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+			},
+			{
+				"title": "Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications",
+				"url": "https://www.youtube.com/watch?v=XxXyfkrP298",
+				"thumb": "https://img.youtube.com/vi/XxXyfkrP298/hqdefault.jpg"
+			},
+			{
+				"title": "Como Foi Programado um App Que Faz Mágica",
+				"url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+				"thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+			},
+			{
+				"title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+				"url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+				"thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+			},
+			{
+				"title": "5 Erros Históricos do CSS",
+				"url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+				"thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+			},
+			{
+				"title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+				"url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+				"thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+			}
+		],
+		"back-end": [
+			{
+				"title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+				"url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+				"thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+			},
+			{
+				"title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+				"url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+				"thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+			},
+			{
+				"title": "O que é o Java? #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+				"thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+			},
+			{
+				"title": "O que é Machine Learning? #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+				"thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+			},
+			{
+				"title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+				"thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+			},
+			{
+				"title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+				"thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+			},
+			{
+				"title": "O que é o C#? #HipstersPontoTube",
+				"url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+				"thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+			}
+		]
+	}
 }
